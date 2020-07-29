@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 <ul><li>The included R script, run_analysis.R</li>
-  <li>The tidy dataset is stored in tidy_dataset.txt</li><ul>
+  <li>The tidy dataset is stored in tidy_dataset.txt</li></ul>
   
   
 1. Download the dataset from web if it does not already exist in the working directory.
